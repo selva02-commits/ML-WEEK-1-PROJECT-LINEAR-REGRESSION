@@ -1,0 +1,2 @@
+# ML-WEEK-1-PROJECT-LINEAR-REGRESSION
+EDA Project details
